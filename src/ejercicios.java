@@ -2,6 +2,14 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class ejercicios{
+
+
+
+
+
+
+
+
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
         System system = null;
