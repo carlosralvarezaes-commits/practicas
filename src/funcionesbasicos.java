@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class funcionesbasicos {
 
 public static void saludar(String nombreEntrdada){
+
     System.out.println("bienvenido  "+ nombreEntrdada);
+
 }
 
 public static void main (String [] args){
