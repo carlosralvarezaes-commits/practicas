@@ -20,7 +20,7 @@ public class juego {
         int turnos = 0;
         boolean juegoActivo = true;
 
-        while (juegoActivo) {
+        while (juegoActivo == true) {
             imprimirMapa();
             System.out.print("¿Mover (M) o Disparar (A)? ");
             String accion = scanner.nextLine().toUpperCase();
